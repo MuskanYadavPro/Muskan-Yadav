@@ -3,6 +3,6 @@
 👀 I’m interested in contributing to open source projects.
 🌱 Currently, I'm diving into Django and sharpening my skills in C++ and Python.
 💞️ I’m eager to collaborate on Django projects, and contribute to C++ and Python projects through bug fixes and feature development.
-📫 How to reach me: muskanyav06132013@gmail.com
+📫 How to reach me: GitHub | Email
 😄 Pronouns: She/Her
-⚡ Fun fact: I love solving puzzles
+⚡ Fun fact: I enjoy solving puzzles.
